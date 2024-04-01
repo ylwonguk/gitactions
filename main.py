@@ -5,3 +5,4 @@ def bye():
     print("bye")
 
 print(hello())
+print(bye())
